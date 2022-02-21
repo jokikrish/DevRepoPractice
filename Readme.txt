@@ -1,1 +1,0 @@
-Git revert command practice
