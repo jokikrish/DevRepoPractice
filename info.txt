@@ -5,3 +5,4 @@ This folder contains the writing sampls in the HTML format and shared as a publi
 
 
 Git branching practice
+Going to merge
